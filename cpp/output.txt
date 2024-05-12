@@ -1,0 +1,2 @@
+Hello, this is a text file created using C++!
+Writing some more text into the file.
